@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="SelectSong">Select A Song</string>
+    <string name="PauseSong">Pause</string>
+    <string name="PlaySong">Play</string>
+    <string name="StopSong">Stop</string>
+    <string name="DefaultTime">00:00</string>
+    <string name="SongPlayingText">Song Playing:</string>
+</resources>
